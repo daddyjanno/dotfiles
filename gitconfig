@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jn.drugmand@gmail.com
+	name = Jean-Noel Drugmand
